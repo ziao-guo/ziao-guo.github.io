@@ -41,7 +41,8 @@ My research centers on deep learning for complex optimization problems, with a p
 
 - This work proposes a contrastive pre-training framework for combinatorial optimization (CO) through an instance-level contrastive learning objective that aligns original CO problem instances with their canonical SAT-form counterparts.
 
-# 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +53,8 @@ My research centers on deep learning for complex optimization problems, with a p
 
 - This work proposes a sampling technique for solving combinatorial optimization problems, and theoretically proves that this approach exhibits a polynomial time for escaping local minima, compared with exponential escape time of original LD in previous work.
 
-# 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Spotlight)</div><img src='images/icml24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +66,8 @@ My research centers on deep learning for complex optimization problems, with a p
 - This work proposes a hardness-preserving MILP instance generation framework with adaptive constraint modification and constraint interrelation modeling.
 - [![](https://img.shields.io/github/stars/Thinklab-SJTU/ACM-MILP?style=social&label=ACM-MILP)](https://github.com/Thinklab-SJTU/ACM-MILP) 
 
-# 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/cvpr23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,9 +79,11 @@ My research centers on deep learning for complex optimization problems, with a p
 - This work proposes the first neural solver for partial graph matching (GM) problem, and release a new benchmark for partial GM.
 - [![](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch?style=social&label=ThinkMatch)](https://github.com/Thinklab-SJTU/ThinkMatch) [![](https://img.shields.io/github/stars/Thinklab-SJTU/IMCPT-SparseGM-dataset?style=social&label=IMCPT-SparseGM-dataset)](https://github.com/Thinklab-SJTU/IMCPT-SparseGM-dataset)
 
-## 
+</div>
+</div>
 
 - ![](https://img.shields.io/badge/JMLR 2024-darkblue) [Pygmtools: A python graph matching toolkit](https://www.jmlr.org/papers/volume25/23-0572/23-0572.pdf)<br>Runzhong Wang, **Ziao Guo**, Wenzheng Pan, Jiale Ma, Yikai Zhang, Nan Yang, et al.  [![](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social&label=pygmtools)](https://github.com/Thinklab-SJTU/pygmtools)
+
 - ![](https://img.shields.io/badge/ICLR 2024-darkblue) [Towards Imitation Learning to Branch for MIP: A Hybrid Reinforcement Learning Based Sample Augmentation Approach](https://openreview.net/pdf?id=NdcQQ82mfy)<br>Changwen Zhang, Wenli Ouyang, Hao Yuan, Liming Gong, Yong Sun, **Ziao Guo**, et al.
 
 - ![](https://img.shields.io/badge/ICML 2023-darkblue) [LinSATNet: the positive linear satisfiability neural networks](https://proceedings.mlr.press/v202/wang23at/wang23at.pdf) <br>Runzhong Wang, Yunhao Zhang, **Ziao Guo**, Tianyi Chen, Xiaokang Yang, Junchi Yan.  [![](https://img.shields.io/github/stars/Thinklab-SJTU/LinSATNet?style=social&label=LinSATNet)](https://github.com/Thinklab-SJTU/LinSATNet)
