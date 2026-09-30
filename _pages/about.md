@@ -19,12 +19,13 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at Shanghai Jiao Tong University (SJTU), supervised by Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/), and a member of the prestigious Wen-Tsun Wu AI Honorary Doctoral Class. I completed my undergraduate degree at SJTU in 2023, majoring in Artificial Intelligence within the Pilot Class for Outstanding Talent, an elite program reserved for top 5% of students.
 
-My research centers on deep learning for complex optimization problems, with a particular emphasis on discrete combinatorial optimization. I have authored seven papers in leading conferences and journals, including four as (co-)first author at CVPR 2023, ICML 2024, NeurIPS 2025, and ICLR 2026. Additionally, I serve as a reviewer for top-tier venues, e.g., ICML, NeurIPS, ICLR, and TPAMI.
+My research centers on deep learning for complex optimization problems, with a particular emphasis on discrete combinatorial optimization. I have authored nine papers in leading conferences and journals, including **six** as (co-)first author at CVPR 2023, ICML 2024, NeurIPS 2025, 2026, and ICLR 2026. Additionally, I serve as a reviewer for top-tier venues, e.g., ICML, NeurIPS, ICLR, and TPAMI.
 
 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Two paper on machine learning for mixed-integer linear programming is accepted by NeurIPS 2026!
 - *2026.01*: &nbsp;🎉 One paper on representation learning for combinatorial optimization is accepted by ICLR 2026!
 - *2025.09*: &nbsp;🎉 One paper on sampling approach for combinatorial optimization is accepted by NeurIPS 2025!
 
