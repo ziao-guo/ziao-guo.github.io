@@ -26,8 +26,10 @@ My research centers on deep learning for complex optimization problems, with a p
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉 Two paper on machine learning for mixed-integer linear programming is accepted by NeurIPS 2026!
+
 - *2026.01*: &nbsp;🎉 One paper on representation learning for combinatorial optimization is accepted by ICLR 2026!
-- *2025.09*: &nbsp;🎉 One paper on sampling approach for combinatorial optimization is accepted by NeurIPS 2025!
+
+  
 
 # 📝 Publications 
 
